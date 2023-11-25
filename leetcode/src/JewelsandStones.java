@@ -6,7 +6,6 @@ public class JewelsandStones{
 
         System.out.println(JewelsandStones.numJewelsInStones("aA","aAAbbbb"));
     }
-
     private static int numJewelsInStones(String jewels, String stones) {
 
         Map<Character,Integer> map = new HashMap<>();
