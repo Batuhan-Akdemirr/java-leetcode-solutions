@@ -17,7 +17,6 @@ public class CheckIfAStringIsAnAcronymOfWords {
         }
         return targetWords.equals(s);
     }
-
 }
 
 
