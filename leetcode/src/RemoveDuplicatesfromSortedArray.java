@@ -1,6 +1,5 @@
 public class RemoveDuplicatesfromSortedArray {
     public static void main(String[] args) {
-
         int [] solutionArray = {0,0,1,1,1,2,2,3,3,4};
         System.out.println(RemoveDuplicatesfromSortedArray.removeDuplicates(solutionArray));
     }
