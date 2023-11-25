@@ -11,7 +11,6 @@ public class NumberofStudentsDoingHomeworkataGivenTime {
                 count++;
             }
         }
-
         return count;
     }
 }
