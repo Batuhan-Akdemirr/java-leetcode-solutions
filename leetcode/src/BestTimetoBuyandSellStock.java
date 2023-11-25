@@ -1,5 +1,6 @@
 public class BestTimetoBuyandSellStock {
     public static void main(String[] args) {
+
         int [] array = {7,1,5,3,6,4};
         int [] array2 = {7,6,5,4,3,2,1};
         int [] array3 = {1,2};
@@ -21,7 +22,6 @@ public class BestTimetoBuyandSellStock {
      }
 
      return bestPrice;
-
     }
 }
 
