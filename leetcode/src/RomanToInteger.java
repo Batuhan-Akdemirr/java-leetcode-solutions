@@ -7,7 +7,6 @@ public class RomanToInteger {
         System.out.println(RomanToInteger.romanToInt("VI"));
 
     }
-
     private  static  int romanToInt(String S) {
         Map<Character, Integer> myMap = new HashMap<>();
         myMap.put('I', 1);
