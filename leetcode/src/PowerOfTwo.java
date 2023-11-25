@@ -14,7 +14,6 @@ public class PowerOfTwo {
             return false;
         }
         return isPowerOfTwo(n / 2);
-
     }
 
 }
