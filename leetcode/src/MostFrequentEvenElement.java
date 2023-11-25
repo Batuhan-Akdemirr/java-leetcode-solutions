@@ -6,6 +6,7 @@ public class MostFrequentEvenElement {
         int [] arrays = {0,1,2,2,4,4,1};
         int [] arrays2 = {4,4,4,9,2,4};
         System.out.println(MostFrequentEvenElement.mostFrequentEven(arrays));
+
     }
 
     private static int mostFrequentEven(int[] nums) {
