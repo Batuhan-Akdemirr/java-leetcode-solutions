@@ -3,7 +3,6 @@ public class FaultyKeyboard {
        // System.out.println( FaultyKeyboard.finalString("string"));
         System.out.println( FaultyKeyboard.finalString("poiinter"));
     }
-
     private static String finalString(String s) {
         StringBuilder result = new StringBuilder();
         boolean reverse = false;
