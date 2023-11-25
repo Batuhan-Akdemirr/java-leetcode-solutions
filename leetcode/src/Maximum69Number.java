@@ -15,8 +15,8 @@ public class Maximum69Number {
         }else{
             stringBuilder.append(str.charAt(i));
         }
-
     }
+
     return Integer.parseInt(stringBuilder.toString());
     }
 }
