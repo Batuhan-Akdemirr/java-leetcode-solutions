@@ -25,8 +25,6 @@ public class SingleNumber {
 
         return 0;
     }
-
-
 }
 
 
