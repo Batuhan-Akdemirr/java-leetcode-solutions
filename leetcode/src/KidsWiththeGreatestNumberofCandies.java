@@ -20,7 +20,6 @@ public class KidsWiththeGreatestNumberofCandies {
             else decision.add(false);
         }
             return decision;
-
     }
 }
 
