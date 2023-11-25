@@ -27,9 +27,6 @@ public class TwoSum {
 
         return index;
     }
-
-
-
 }
 
 
