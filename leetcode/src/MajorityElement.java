@@ -4,7 +4,6 @@ public class MajorityElement {
         int [] numbers = {2,2,1,1,1,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3};
         System.out.println(MajorityElement.majorityElement(numbers));
     }
-
     private static int majorityElement(int[] nums) {
 
         int counter =0;
